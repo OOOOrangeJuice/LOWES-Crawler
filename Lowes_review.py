@@ -3,8 +3,8 @@ import re
 import time
 import pandas as pd
 
-ids = ["1001299116", "1075959", "1001155988", "1001155954"]                                                                          #修改为目标ID列表
-result_add = "C:\\Users\\Jonny_Chen\\Desktop\\橙汁\\常规任务\\不定期爬虫\\Tasks\\20200907 LOWES for Checky"   #修改为目标输出文件夹
+ids = ["1001299116", "1075959", "1001155988", "1001155954"]                                                                          #change to target ID list
+result_add = "C:\\Users\\Jonny_Chen\\Desktop\\橙汁\\常规任务\\不定期爬虫\\Tasks\\20200907 LOWES for Checky"                            #change to output address
 
 header = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36"}
 
